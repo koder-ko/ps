@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "iosfwd": "cpp",
+      "iostream": "cpp",
+      "cmath": "cpp",
+      "chrono": "cpp",
+      "random": "cpp",
+      "limits": "cpp",
+      "valarray": "cpp",
+      "algorithm": "cpp",
+      "utility": "cpp",
+      "xstring": "cpp",
+      "xiosbase": "cpp",
+      "ostream": "cpp"
+    }
+  }
+}

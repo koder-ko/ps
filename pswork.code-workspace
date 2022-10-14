@@ -17,7 +17,8 @@
       "utility": "cpp",
       "xstring": "cpp",
       "xiosbase": "cpp",
-      "ostream": "cpp"
+      "ostream": "cpp",
+      "stack": "cpp"
     }
   }
 }

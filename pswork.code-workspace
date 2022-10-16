@@ -18,7 +18,9 @@
       "xstring": "cpp",
       "xiosbase": "cpp",
       "ostream": "cpp",
-      "stack": "cpp"
+      "stack": "cpp",
+      "queue": "cpp",
+      "deque": "cpp"
     }
   }
 }

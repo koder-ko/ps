@@ -20,7 +20,8 @@
       "ostream": "cpp",
       "stack": "cpp",
       "queue": "cpp",
-      "deque": "cpp"
+      "deque": "cpp",
+      "vector": "cpp"
     }
   }
 }
